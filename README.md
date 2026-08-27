@@ -6,7 +6,7 @@
 
 | 技能 | 说明 | 安装路径 |
 |------|------|----------|
-| [Project Fold](project-fold/) | 目标导向、低认知负担、跨场景的人机项目协作协议：统一上层项目认知、当前真相、AI 上下文路由与可追溯执行关系 | `~/.claude/skills/project-fold/` |
+| [Project Fold](skills/project-fold/) | 目标导向、低认知负担、跨场景的人机项目协作协议：统一上层项目认知、当前真相、AI 上下文路由与可追溯执行关系 | `~/.claude/skills/project-fold/` |
 
 ## 快速使用
 
@@ -25,7 +25,7 @@
 
 ```text
 git clone https://github.com/Huang-Liang-Heng/Huang-Liang-skills.git
-cp -r Huang-Liang-skills/project-fold ~/.claude/skills/
+cp -r Huang-Liang-skills/skills/project-fold ~/.claude/skills/
 ```
 
 ## 联系
